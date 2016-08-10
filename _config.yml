@@ -1,10 +1,10 @@
 # config
-cover: /img/bg1.jpg
-logo: /img/cover.jpg
+cover: /img/bg_img.jpg
+logo: /img/logo.png
 top_saying:
-- title:  Journey Tomrrow <span>WISE</span> WELCOME.
-- content: 家居
-bottom_saying: 2016 power by onsoul
+- title: YOU'VE MADE A <span>BRAVE</span> DECISION, WELCOME.
+- content: Journey Tomrrow wise
+bottom_saying: 未来
 # Content
 excerpt_link: Read More
 
@@ -24,9 +24,9 @@ duoshuo: duoshuo_name
 
 # Miscellaneous
 github: https://github.com/
-#twitter: https://twitter.com/
-#facebook: https://www.facebook.com/
-#google: https://google.com/
+twitter: https://twitter.com/
+facebook: https://www.facebook.com/
+google: https://google.com/
 weibo: http://weibo.com/
 
 #about  timeline
@@ -38,7 +38,7 @@ timeline:
 - num: 3
   word: 2015/02/18-DDD
 - num: 4
-  word: 更多
+  word: More
 
 #Links
 links:
